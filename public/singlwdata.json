@@ -1,0 +1,24 @@
+[{
+"id": "123",
+"image": "https://example.com/book-cover.jpg",
+"bookName": "The Great Gatsby",
+"author": "F. Scott Fitzgerald",
+"category": "Fiction",
+"review": "A classic novel set in the 1920s...",
+"tags": ["classic", "1920s", "American literature"],
+"totalPages": 180,
+"publisher": "Charles Scribner's Sons",
+"yearOfPublishing": 1925,
+"rating": 4.7,
+"actions": {
+    "readButton": {
+    "text": "Read",
+    "url": "/book/123/read"
+    },
+    "wishlistButton": {
+    "text": "Wish list",
+    "url": "/book/123/wishlist"
+    }
+}
+}]
+  

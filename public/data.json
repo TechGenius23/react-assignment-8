@@ -1,0 +1,81 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/1vwxHK2/R-6.jpg",
+        "review": "To Kill a Mockingbird by Harper Lee is a profound exploration of racial injustice, empathy, and moral growth. Through the innocent eyes of Scout Finch, readers witness the unfairness of prejudice and the struggles of her father, Atticus, as he defends a wrongfully accused Black man in the segregated South. The novel expertly combines elements of coming-of-age, courtroom drama, and social commentary.",
+        "totalPages": 336,
+        "category": "Fiction",
+        "rating": 4.5,
+        "year":"1999",
+        "publisher":"Adom",
+        "tags": ["#classics", "#racial injustice", "#coming-of-age"]
+        
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/6Ddwqq4/OIP-12.jpg",
+        "review": "George Orwell was a British author known for his profound critiques of political systems, most notably in his works 1984 and Animal Farm. His writing often explores themes of totalitarianism, surveillance, and social injustice, offering a sharp commentary on power and control. Orwell's distinctive style blends clear, direct language with complex ideas, making his works both accessible and deeply thought-provoking.",
+        "totalPages": 328,
+        "rating": 4.7,
+        "year":"1989",
+        "publisher":"Adomi",
+        "category": "Fiction",
+        "tags": ["#dystopian", "#political", "#surveillance"]
+    },
+    {
+        "bookId": 3,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://i.ibb.co/kx84CW7/sivan-okcuoglu-r5-4a.jpg",
+        "review": "An engaging journey through the history of our species, exploring major milestones and cultural shifts.Harari's exploration of humanity's evolution is both thought-provoking and accessible, offering deep insights into how Homo sapiens became the dominant species on Earth.",
+        "totalPages": 443,
+        "rating": 4.8,
+        "year":"1939",
+        "publisher":"Wilson",
+        "category": "Non-Fiction",
+        "tags": ["#history", "#anthropology", "#evolution"]
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "image": "https://i.ibb.co/86qq4KQ/The-Hitchhikers-Guide-to-the-Galaxy-Summary.jpg",
+        "review": "The Hitchhiker's Guide to the Galaxy is a hilarious sci-fi classic that follows the misadventures of Arthur Dent, an unwitting human swept off Earth just before its destruction. Douglas Adams masterfully blends absurdity with sharp wit, creating a richly imaginative universe filled with eccentric characters, like the two-headed President of the Galaxy and the paranoid android Marvin.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "year":"1999",
+        "publisher":"rose",
+        "category": "Science Fiction",
+        "tags": ["#humor", "#space", "#adventure"]
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/9s3MYYV/F-Scott-Fitz-Gerald.jpg",
+        "review": "F. Scott Fitzgerald's The Great Gatsby masterfully captures the decadence of the Roaring Twenties. The story revolves around Jay Gatsby, a mysterious millionaire driven by love and ambition. Through the eyes of narrator Nick Carraway, themes of obsession, wealth, and the American Dream are explored.",
+        "totalPages": 180,
+        "rating": 4.6,
+        "year":"1989",
+        "publisher":"Helen",
+        "category": "Fiction",
+        "tags": ["#classics", "#1920s", "#love story"]
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "image": "https://i.ibb.co/x66QY75/OIP-13.jpg",
+        "review": "The Subtle Art of Not Giving a Fck* by Mark Manson offers a refreshing perspective on self-improvement, emphasizing the importance of prioritizing what truly matters. Manson challenges conventional positivity, arguing that embracing life's struggles leads to genuine happiness. His candid, no-nonsense writing style makes complex ideas accessible and relatable. The book encourages readers to accept their limitations and make choices that align with their values.",
+        "totalPages": 224,
+        "rating": 4.2,
+        "year":"1999",
+        "publisher":"jon",
+        "category": "Non-Fiction",
+        "tags": ["#self-help", "#motivation", "#philosophy"]
+    }
+]
