@@ -1,19 +1,15 @@
-/* eslint-disable react-hooks/rules-of-hooks */
+
 import { NavLink, useLoaderData } from 'react-router-dom';
 import images from '../images/pngwing 1.png'
 import Maincard from './Maincard';
 
 
-// const navigation = useNavigation()
-// if (navigation.state === 'loading') {
-//   <Loder></Loder>
-// }
 
 
 const Home = () => {
 
-  const datat = useLoaderData()
-  console.log(datat);
+  const datat = useLoaderData();
+ 
   return (
     <div>
       <div className="flex items-center bg-slate-400 rounded-xl">
@@ -32,7 +28,7 @@ const Home = () => {
 
       <div className='grid grid-cols-3'>
         {
-          datat && datat?.map(data => <Maincard key={data.id} data={data}></Maincard>)
+          datat?.map(data => <Maincard key={data.bookId} data={data}></Maincard>)
         }
       </div>
 

@@ -7,8 +7,8 @@ const Singlecard = () => {
     const blog = useLoaderData();
     const { bookId } = useParams();
     const parint = parseInt(bookId);
-    const sin = blog?.find(sin => sin.bookId === parint);
-   
+    const sin = blog.find(sin => sin.bookId === parint);
+   console.log(sin);
   
 
     return (

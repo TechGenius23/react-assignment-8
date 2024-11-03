@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 
 
 const Maincard = ({data}) => {
-    console.log(data);
-    const { image, author, rating, category,bookName} = data;
+   
+    const {image, author, rating, category,bookName} = data;
     
     return (
         
